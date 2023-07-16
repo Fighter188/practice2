@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Video 1",
+    "videoUrl": "https://example.com/video1.mp4"
+  },
+  {
+    "name": "Video 2",
+    "videoUrl": "https://example.com/video2.mp4"
+  },
+  {
+    "name": "Video 3",
+    "videoUrl": "https://example.com/video3.mp4"
+  }
+]
